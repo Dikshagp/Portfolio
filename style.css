@@ -1,0 +1,60 @@
+body{
+    background-image:linear-gradient(55deg,rgb(135, 185, 215),rgb(241, 81, 81));
+    margin-left: 0%;
+    margin-right: 0%;
+    padding: 2px;
+    font-weight: 400;
+}
+img{
+    border: 2px solid rgb(159, 148, 148);
+    margin-top: 3%;
+   margin-left: 20%;
+    padding: 3px;
+    border-radius: 20%;
+}
+.name
+{
+   
+    font-size: 33px;
+   
+    font-style: oblique;
+    font-weight: bold;
+    margin-left: 29%;
+    margin-top: 10%;
+   
+}
+.pinfo
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+}
+
+
+.langchange{
+  
+    display: flex;
+    justify-content: space-between;
+    margin-left: 70%;
+    margin-right: 20%;
+    margin-top: 2%;
+    height: 10%;
+    width: 10%;
+    
+   
+    font-weight: bolder;
+   
+ 
+    
+}
+.langchange .btn{
+    background-color: grey;
+}
+.fback
+{
+    margin: 5%;
+    padding: 2%;
+}
